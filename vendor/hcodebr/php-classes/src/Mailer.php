@@ -29,9 +29,6 @@ class Mailer {
 			$tpl->assign($key, $value);
 		}
 
-		/* var_dump($tpl);
-		die('123'); */
-
 		$html = $tpl->draw($tplName, true);
 
 		$this->mail = new \PHPMailer;
