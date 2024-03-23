@@ -23,7 +23,7 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/views/res/site/css/owl.carousel.css">
     <link rel="stylesheet" href="/views/res/site/css/style.css">
-    <link rel="stylesheet" href="/views/res/site/css/views/responsive.css">
+    <link rel="stylesheet" href="/views/res/site/css/responsive.css">
   </head>
   <body>
    
